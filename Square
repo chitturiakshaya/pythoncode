@@ -7,3 +7,4 @@ def square (number):
 z=int(input("Enter a number for square"))
 square(z)
 print("HI")
+#hello
