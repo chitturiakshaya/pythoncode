@@ -1,0 +1,8 @@
+
+def square (number):
+    squaring = number**2
+    print("Square of " + str (number) + " is " + str(squaring))
+    
+
+z=int(input("Enter a number for square"))
+square(z)
